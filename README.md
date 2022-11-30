@@ -1,2 +1,3 @@
-# Contador
-Contador minimalista con HTML, CSS y JAVASCRIPT.
+# Counter
+
+Minimalist counter with HTML, CSS and JAVASCRIPT.
